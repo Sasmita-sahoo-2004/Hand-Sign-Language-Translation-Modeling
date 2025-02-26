@@ -39,5 +39,17 @@ This project is a system designed to recognize and translate text into sign lang
 
 ## 🧪 Testing & Deployment
 - **Testing**
-- 
+  
+  ![Screenshot 2024-04-22 162454](https://github.com/user-attachments/assets/392bb146-1aec-42e1-89a2-55e184975dae)
+
+  ![Screenshot 2024-04-22 200837](https://github.com/user-attachments/assets/5655cf77-0824-4887-a783-595809ddc466)
+
+  
+
 - **Deployment**: The model is integrated into the "MaunMitra" app for real-time sign
+- ![1](https://github.com/user-attachments/assets/ceab8d5d-3960-41c8-8c2b-8ad9566cdb67)
+![2](https://github.com/user-attachments/assets/6de44240-ace5-4ea2-852c-4d4a943ad21e)
+![3](https://github.com/user-attachments/assets/bec30064-c282-4c03-803d-4752d9dcc995)
+![Screenshot 2024-04-21 203433](https://github.com/user-attachments/assets/b70d58ff-b5c6-48ad-baf1-24426eac7a84)
+
+  
