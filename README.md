@@ -52,7 +52,8 @@ This project is a system designed to recognize and translate text into sign lang
   <img src="https://github.com/user-attachments/assets/ceab8d5d-3960-41c8-8c2b-8ad9566cdb67" width="24%" />
   <img src="https://github.com/user-attachments/assets/6de44240-ace5-4ea2-852c-4d4a943ad21e" width="24%" />
   <img src="https://github.com/user-attachments/assets/bec30064-c282-4c03-803d-4752d9dcc995" width="24%" />
-  <img src="https://github.com/user-attachments/assets/b70d58ff-b5c6-48ad-baf1-24426eac7a84" width="24%" />
+  <img src="https://github.com/user-attachments/assets/36622a33-0481-4ee3-b6df-06081d3f0982" width = "24%" />
+
 </p>
 
   
